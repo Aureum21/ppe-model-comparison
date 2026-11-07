@@ -1,0 +1,7 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+ppe_classification_work/
+.env*
+*.pt
+*.zip
